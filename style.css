@@ -1,39 +1,42 @@
-body {
+
+
+   body {
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     margin: auto;
     justify-content: center;
-    width: 1000px;
+ 
        
-}
-h1 {
+   }
+   h1 {
     color: green;
     size: 0cqmax;
     text-align: center;
     
-}
+   }
 
-.ma-classe{
+  .ma-classe{
     color: red;
-}
-.table{
+  }
+  .table{
    border-collapse: collapse;
    width: 200px;
    margin-bottom: 20px;
-}
-th, td{
-    border: 1px solid black;
-    padding: 10px;
-}
-th{
+  }
+   th, td{
+    border: 2px solid black;
+    padding: 8px;
+  }
+  th{
     text-align: center;
     color: red;
-}
-.image {
-    width: 150%;
+  }
+  .image {
+    width: 100%;
     height: auto;
-}
+  }
 
-p {
+    p {
     margin: 0;
-}
+  }
+
